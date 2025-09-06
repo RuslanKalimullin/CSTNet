@@ -4,7 +4,7 @@ This repo contains the code of our EMA4MICCAI 2025 workshop paper: **"CSTNet: A 
 
 Ruslan Kalimullin, Ekaterina Antipushina, Alexandra Razorenova, Georgy Kormakov, Nikolay Koshev
 
-Skoltech, Samara University
+Skoltech
 
 📄 [Paper](link-to-paper) |
 
