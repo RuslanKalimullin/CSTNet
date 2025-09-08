@@ -6,7 +6,7 @@ Ruslan Kalimullin, Ekaterina Antipushina, Alexandra Razorenova, Georgy Kormakov,
 
 Skoltech
 
-📄 [Paper](link-to-paper) |
+📄 [Paper](link-to-paper) | 🪧 [Poster](link-to-poster)
 
 ---
 
@@ -19,19 +19,6 @@ Skoltech
 
 ## Directory Structure
 
-```
-pyOpenNFT/
-├── projects/
-│   ├── opennft_gui_proj.py      # GUI version
-│   └── opennft_nogui_proj.py    # Non-GUI version
-├── config/                       # Configuration files (.ini, .json)
-├── data/
-│   ├── watch/                   # Incoming fMRI data folder
-│   ├── work/                    # Processed data output
-│   └── structural/              # Anatomical images
-├── prediction_server/           # EEG-fMRI prediction API
-└── pyopennft/                   # Core framework code
-```
 
 ---
 ## Citation
